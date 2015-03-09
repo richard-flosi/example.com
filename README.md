@@ -1,3 +1,3 @@
-# example.com
+# example.com cookbook
 
-Creates the site example.com on a local [openresty](https://supermarket.chef.io/cookbooks/openresty) server.
+Cookbook to create the site example.com on a local [openresty](https://supermarket.chef.io/cookbooks/openresty) server.
